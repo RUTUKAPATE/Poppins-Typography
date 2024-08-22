@@ -77,8 +77,8 @@
     },
     "_All Courses_FASTN_All Fastn Files_Poppins-Typography/rutukapate.github.io_poppins-typography": {
       "name": "_All Courses_FASTN_All Fastn Files_Poppins-Typography/rutukapate.github.io_poppins-typography",
-      "checksum": "F7C42936275790DE119EE07DA8398E8EFC40187492EFEFAFB4B9EC7CEBD7A958",
-      "size": 74067
+      "checksum": "FD5DFBA164CE153B912D594A99C473461A29B7101E5E36E1C792FC25F2F85DC1",
+      "size": 74069
     },
     "_All Courses_FASTN_All Fastn Files_Poppins-Typography/rutukapate.github.io_poppins-typography_": {
       "name": "_All Courses_FASTN_All Fastn Files_Poppins-Typography/rutukapate.github.io_poppins-typography_",
@@ -92,23 +92,23 @@
     },
     "_All Courses_FASTN_All Fastn Files_Poppins-Typography/rutukapate.github.io_poppins-typography_fastn-typography": {
       "name": "_All Courses_FASTN_All Fastn Files_Poppins-Typography/rutukapate.github.io_poppins-typography_fastn-typography",
-      "checksum": "CACEC2182D80873945577E1005C47F3823CEF97D47F130406E0C2E57DA46E05D",
-      "size": 58001
+      "checksum": "7DE752317B2939BF8CA05048E1B8E8D79D7132846D1D98664F774B1DC459EA9A",
+      "size": 46154
     },
     "_All Courses_FASTN_All Fastn Files_Poppins-Typography/rutukapate.github.io_poppins-typography_fastn-typography_": {
       "name": "_All Courses_FASTN_All Fastn Files_Poppins-Typography/rutukapate.github.io_poppins-typography_fastn-typography_",
-      "checksum": "1D1D64900906BA73ABE53ED2D7B7CFF15B31D03AD2D5749D758F7F4EC4D6E790",
-      "size": 58002
+      "checksum": "1EF8298BDCC7F1E6185475B7BC7610900FF7B73181DC3967813636052FFBFF2C",
+      "size": 46155
     },
     "fastn-typography.ftd": {
       "name": "fastn-typography.ftd",
-      "checksum": "692B2BB4C3FCD7A81647ECE31ADF2E445AEFCF4A3E4C0CB8FB7E4201026F9961",
-      "size": 8720
+      "checksum": "A593FAC1D1A307874191D82FC485F04875991DDDB2A23EC000FAF478297C6A76",
+      "size": 9608
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "801D6EFB7E48EF8AD274C2DC928EF3ABF16A2F17E7783865EA7BC1CF43EE66AC",
-      "size": 13331
+      "checksum": "269F90DAD49DFC48FE29DB362F2FF04D71729B58EFD5AE3DE92DFFD8E86370E8",
+      "size": 13333
     },
     "static/Caveat-400-normal-cyrillic-ext.woff2": {
       "name": "static/Caveat-400-normal-cyrillic-ext.woff2",
@@ -587,5 +587,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/rutukapate/poppins-typography/zip/refs/heads/main",
-  "checksum": "F5A812A60A8D44D474D6A0CED5DE0452C7A1038EEB2134F60CD5F704C58F8ADA"
+  "checksum": "115974E027B139DB15AD12DBB264E93B3499D03BBB01B430A3E6AB869D012F4C"
 }
